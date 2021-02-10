@@ -1,0 +1,29 @@
+.toDoContainer {
+    text-align: center;
+}
+
+.toDoItem {
+    margin: 5px auto;
+    width: 250px;
+    border: 1px solid lightgrey;
+    padding: 5px;
+}
+
+.toDoLabel {
+    width: 50px;
+    display: inline-block;
+}
+
+.toDoActions {
+    text-align: right;
+}
+
+input {
+    width: 195px
+}
+
+.saveButton {
+    width: 250px;
+    margin : auto;
+    font-size: 25px;
+}
